@@ -1,4 +1,6 @@
-url: "http://0.0.0.0:4000"
+port: 8000
+
+url: "http://0.0.0.0:8000"
 baseurl: ""
 #############################################
 # Assets configuration
@@ -12,7 +14,7 @@ baseurl: ""
 # repository url
 # NO TRAILING SLASH
 #distantAssetsUrl: "http://swctasks.github.io"
-distantAssetsUrl: "http://0.0.0.0:4000"
+distantAssetsUrl: "http://0.0.0.0:8000"
 
 # path : "/styles"
 # NO TRAILING SLASH
